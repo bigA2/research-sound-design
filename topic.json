@@ -1,0 +1,14 @@
+{
+ "topic": "Sound design for short product ads",
+ "question": "How to design and mix sound effects for short music-led product ads without voice-over: which sounds go on which visual beats (whoosh, impact, riser, pop, click, glitch, data), levels in dB vs music, timing to cuts, loudness targets, and how to synthesize such sounds from scratch with open-source tools?",
+ "queries": [
+  "sound effects synthesis python",
+  "procedural audio",
+  "audio mixing loudness normalization",
+  "game ui sound effects generator"
+ ],
+ "urls": [
+  "https://en.wikipedia.org/wiki/Loudness_war",
+  "https://sfxr.me/"
+ ]
+}
