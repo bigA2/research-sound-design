@@ -1,0 +1,13 @@
+{
+ "topic": "Zapier dashboard reverse-engineering",
+ "question": "From Zapier's public help docs and developer docs: dashboard structure (home, Zaps list, Zap history, tables, interfaces, templates, apps/connections, team/members/roles, usage and task limits, billing/plans, settings, API keys / developer platform). Plan limits per tier and how usage is shown.",
+ "queries": [
+  "zapier platform cli",
+  "zapier api authentication"
+ ],
+ "urls": [
+  "https://help.zapier.com/hc/en-us/articles/8496181725453",
+  "https://zapier.com/pricing",
+  "https://docs.zapier.com/platform/build/auth"
+ ]
+}
